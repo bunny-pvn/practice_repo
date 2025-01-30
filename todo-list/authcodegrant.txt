@@ -1,0 +1,32 @@
+c476a6ba-e236-4640-b06f-c41bcea9ed61    
+
+
+secret
+
+consent URI
+
+https://account-d.docusign.com/oauth/auth?response_type=code&scope=signature&client_id=af11ae0b-7082-4ec5-a8a7-cce583dc8fab&redirect_uri=http://localhost/
+
+
+authorization code:::::
+
+http://localhost/?code=eyJ0eXAiOiJNVCIsImFsZyI6IlJTMjU2Iiwia2lkIjoiNjgxODVmZjEtNGU1MS00Y2U5LWFmMWMtNjg5ODEyMjAzMzE3In0.AQsAAAABAAYABwCAH4JcxDbdSAgAgKsIpMQ23UgCADCuLisPnFZEoNaqAWrwYLkVAAEAAAAYAAEAAAAFAAAADQAkAAAAYWYxMWFlMGItNzA4Mi00ZWM1LWE4YTctY2NlNTgzZGM4ZmFiIgAkAAAAYWYxMWFlMGItNzA4Mi00ZWM1LWE4YTctY2NlNTgzZGM4ZmFiMACAH4JcxDbdSBIAAQAAAAsAAABpbnRlcmFjdGl2ZTcAY46QuuuRTkGiKkPW1Rq6BA.oK2R4_L8z9svlawtlxj8kqPRHtSvUUXKSwruMSO4fViotLZWvEi2pojdWT7xjKt0-Br9CHwNFaWoWja-63MI6fvOo9vgj1SZmc0I-SMFDYP9iyYwEmXi9SapOFtm2URORtq8FbQj62Fe9ITig6_RV6ELhYC_jS7S7pyZYWXBPTaofzEQ47fV2UdqFqGfSahKvyp_qkLrq-iv59ScKKHTZot5-uyNAgb2RZDR90Z6KXNopiLgiKQovHMdZtSPY-IA72WD_LAr1_BdVSGnpoUEAZbaBBDtnC8y40VBPUEe_CHUYe5gKXi5FIXv1LkqtKuA1-bc6WVMrXyebv207LPDyw
+
+
+btoa statement::::
+
+btoa('af11ae0b-7082-4ec5-a8a7-cce583dc8fab:c476a6ba-e236-4640-b06f-c41bcea9ed61')
+
+
+
+YWYxMWFlMGItNzA4Mi00ZWM1LWE4YTctY2NlNTgzZGM4ZmFiOmM0NzZhNmJhLWUyMzYtNDY0MC1iMDZmLWM0MWJjZWE5ZWQ2MQ==
+
+
+https://www.example.com/callback
+
+https://www.64baser.com/encode/upload/
+
+
+https://bit.ly/3wuC2SC
+
+
